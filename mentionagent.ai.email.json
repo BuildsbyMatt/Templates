@@ -3,7 +3,7 @@
   "providerName": "MentionAgent",
   "serviceId": "email",
   "serviceName": "MentionAgent Email Sending & Receiving",
-  "version": 2,
+  "version": 3,
   "logoUrl": "https://mentionagent.ai/img/logo-square.svg",
   "description": "Configures DNS records for sending and receiving outreach emails via MentionAgent",
   "variableDescription": "DKIM is the DKIM public key for email authentication.",
