@@ -47,7 +47,7 @@
       "groupId": "DMARC",
       "type": "TXT",
       "host": "_dmarc",
-      "data": "v=DMARC1; p=none; adkim=s; aspf=s; rua=mailto:dmarc@mentionagent.ai; fo=1",
+      "data": "v=DMARC1; p=none; adkim=s; aspf=r; rua=mailto:dmarc@mentionagent.ai; fo=1",
       "txtConflictMatchingMode": "Prefix",
       "txtConflictMatchingPrefix": "v=DMARC1",
       "essential": "OnApply",
